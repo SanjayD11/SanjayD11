@@ -13,9 +13,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=SanjayD11&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayD11&theme=blue-green&hide_border=false&layout=compact)
 
-🐍 Contribution Graph
-![snake gif](https://github.com/SanjayD11/SanjayD11/blob/output/github-contribution-grid-snake.svg)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
