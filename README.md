@@ -2,7 +2,7 @@
 <tr>
 <td width="60%" valign="top">
 
-## About Me
+## About Me:
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />  
 Hi, I’m Sanjay!
