@@ -1,10 +1,10 @@
-<table>
+<table width="100%">
 <tr>
-<td width="65%" valign="top">
+<td width="60%" valign="top">
 
 ## About Me
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />  
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />  
 Hi, I’m Sanjay!
 
 I’m an **Aspiring Java Full-Stack Developer** and **B.Tech student** who loves building scalable, user-centric applications.  
@@ -19,13 +19,18 @@ I enjoy turning ideas into real products, working with modern web technologies, 
 
 </td>
 
-<td width="35%" align="center" valign="top">
+<td width="40%" align="center" valign="middle">
 
-<img src="https://camo.githubusercontent.com/7a6ca55c35d728fde32d0fe5dee3615a7bfcde2899f00ddcf9fb88fb1813955a/68747470733a2f2f63646e2e73686f706966792e636f6d2f732f66696c65732f312f303537382f333639362f313939372f742f392f6173736574732f6c6f6669626f792e6769663f763d313033343631373635323137383935383335303531363830373032323739" width="300"/>
+<img 
+  src="https://camo.githubusercontent.com/7a6ca55c35d728fde32d0fe5dee3615a7bfcde2899f00ddcf9fb88fb1813955a/68747470733a2f2f63646e2e73686f706966792e636f6d2f732f66696c65732f312f303537382f333639362f313939372f742f392f6173736574732f6c6f6669626f792e6769663f763d313033343631373635323137383935383335303531363830373032323739"
+  width="100%"
+  style="max-width:420px;"
+/>
 
 </td>
 </tr>
 </table>
+
 
 
 
