@@ -5,7 +5,7 @@
 ## About Me
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />  
-**Hi, I’m Sanjay!**
+Hi, I’m Sanjay!
 
 I’m an **Aspiring Java Full-Stack Developer** and **B.Tech student** who loves building scalable, user-centric applications.  
 I enjoy turning ideas into real products, working with modern web technologies, and continuously sharpening my problem-solving skills through hands-on development.
