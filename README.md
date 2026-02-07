@@ -15,17 +15,18 @@ I enjoy turning ideas into real products, working with modern web technologies, 
 - I’m looking for help with advanced system design, backend optimization, and scalable architectures  
 - I’m currently learning Java Full Stack Development, DSA, and real-time database systems  
 - Ask me about Java, SQL, Web Development, Git/GitHub, and building real-world projects  
-- Fun fact: I enjoy debugging more than writing fresh code — fixing bugs feels like solving puzzles 🧩  
+- Fun fact: I enjoy debugging more than writing fresh code — fixing bugs feels like solving puzzles  
 
 </td>
 
 <td width="35%" align="center" valign="top">
 
-<img src="https://raw.githubusercontent.com/JurojinKun/JurojinKun/master/assets/coding.gif" width="300"/>
+<img src="https://camo.githubusercontent.com/7a6ca55c35d728fde32d0fe5dee3615a7bfcde2899f00ddcf9fb88fb1813955a/68747470733a2f2f63646e2e73686f706966792e636f6d2f732f66696c65732f312f303537382f333639362f313939372f742f392f6173736574732f6c6f6669626f792e6769663f763d313033343631373635323137383935383335303531363830373032323739" width="300"/>
 
 </td>
 </tr>
 </table>
+
 
 
 ## 🌐 Socials:
