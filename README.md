@@ -9,20 +9,19 @@
 
 ---
 
-## 👋 About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />  
 Hi, I’m **Sanjay**!
 
 I’m an **Aspiring Java Full-Stack Developer** and **B.Tech student** who loves building scalable, user-centric applications.  
 I enjoy turning ideas into real products, working with modern web technologies, and continuously sharpening my problem-solving skills through hands-on development.
 
-- 🚀 I’m currently working on full-stack web applications using **Java, React, TypeScript, and Supabase**  
+- 🚀 I’m currently working on full-stack web applications using Java, React, TypeScript, and Supabase  
 - 🤝 I’m looking to collaborate on open-source projects, web apps, and problem-solving based software  
-- 🧠 I’m looking for help with advanced system design, backend optimization, and scalable architectures  
-- 📚 I’m currently learning Java Full Stack Development, DSA, and real-time database systems  
+- 📚 I’m looking for help with advanced system design, backend optimization, and scalable architectures  
+- 📖 I’m currently learning Java Full Stack Development, DSA, and real-time database systems  
 - 💬 Ask me about Java, SQL, Web Development, Git/GitHub, and building real-world projects  
-- 🎯 Fun fact: I enjoy debugging more than writing fresh code — fixing bugs feels like solving puzzles  
+- 🎯 Fun fact: I enjoy debugging more than writing fresh code — fixing bugs feels like solving puzzles    
 
 ---
 
