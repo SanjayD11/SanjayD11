@@ -88,8 +88,9 @@ I enjoy turning ideas into real products, working with modern web technologies, 
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SanjayD11&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
+### 🔝 Top Contributed Repositories
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SanjayD11&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SanjayD11&theme=github_dark)
 
 ---
 
