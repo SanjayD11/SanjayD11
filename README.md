@@ -108,16 +108,15 @@ I enjoy turning ideas into real products, working with modern web technologies, 
 ## ⚡ Developer Impact & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanjayD11&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=7c3aed&text_color=c9d1d9" width="49%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SanjayD11&theme=dark&hide_border=true&ring=7c3aed&fire=58a6ff&currStreakLabel=c9d1d9" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=SanjayD11&theme=tokyonight&hide_border=true&border_radius=10" width="90%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SanjayD11&theme=onestar&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanjayD11&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SanjayD11&label=Profile%20Views&color=7c3aed&style=flat" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SanjayD11&theme=tokyonight" width="100%" />
 </p>
 
 ---
