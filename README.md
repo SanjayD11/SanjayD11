@@ -108,7 +108,7 @@ I enjoy turning ideas into real products, working with modern web technologies, 
 ## ⚡ Developer Impact & Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SanjayD11&theme=tokyonight&hide_border=true&border_radius=10" width="90%" />
+  <img src="https://streak-stats.demolab.com?user=SanjayD11&theme=blue-green&hide_border=true&border_radius=10" width="90%" />
 </p>
 
 ---
