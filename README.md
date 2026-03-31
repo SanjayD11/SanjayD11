@@ -88,9 +88,24 @@ I enjoy turning ideas into real products, working with modern web technologies, 
 
 ---
 
-### 🔝 Top Contributed Repositories
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SanjayD11&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SanjayD11&theme=github_dark)
+---
+
+## 🔝 Top Contributed Repositories 🚀
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SanjayD11&theme=tokyonight" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SanjayD11&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SanjayD11&theme=tokyonight" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanjayD11&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
+
+---
 
 ---
 
